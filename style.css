@@ -1,1 +1,35 @@
+header footer {
+  background-color: indigo;
+  color: white;
+  text-align: center;
+}
 
+h1 {
+  font-size: 52px;
+  padding-bottom: 5px;
+}
+
+h2 {
+  font-size: 40px;
+  padding-top: 2px;
+  padding-bottom: 3px;
+}
+
+h3 {
+  font-size: 30px;
+  padding-
+}
+
+body {
+  background-color: gray;
+}
+
+h1 h2 h3 {
+  font-family: Cursive;
+}
+
+.box {
+  margin: 20px 10%;
+  background-color: darkgray;
+  padding: 5px;
+}
