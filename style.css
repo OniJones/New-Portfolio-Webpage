@@ -1,12 +1,12 @@
-header footer {
+header h1 {
   background-color: #4B0082;
   color: #FFFFFF;
-  text-align: center;
 }
 
 h1 {
   font-size: 52px;
-  padding-bottom: 5px;
+  padding-bottom: 2px;
+  text-align: center;
 }
 
 h2 {
