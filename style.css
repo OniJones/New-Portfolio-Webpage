@@ -24,8 +24,9 @@ body {
   background-color: #808080;
 }
 
-h1 , h2 , h3 {
+h1 > p , h2 > p , h3 > p {
   font-family: Cursive;
+  font-size: 20px;
 }
 
 hr {
