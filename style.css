@@ -77,7 +77,7 @@ a {
 
 /* Adds contrasting link colors for hovering, visited, active */
 
-a:link    { color: #FFD100;  }
+a:link    { color: #FFD700;  }
 a:visited { color: #9370DB;   }
 a:hover   { color: #FF00FF; }
 a:active  { color: #DDA0DD;  }
