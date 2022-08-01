@@ -57,7 +57,7 @@ a {
 
 /*  */
 
-a:link    { color: #4B0082;  }
-a:visited { color: #483D8B;   }
-a:hover   { color: #E6E6FA; }
-a:active  { color: #8B008B;  }
+a:link    { color: #FFFFFF;  }
+a:visited { color: #9370DB;   }
+a:hover   { color: #FF00FF; }
+a:active  { color: #DDA0DD;  }
