@@ -35,9 +35,10 @@ body {
 
 
 
-h1 > p , h2 > p , h3 > p {
+h2 > p , h3 > p {
   font-family: Cursive;
   font-size: 20px;
+  text-align: center;
 }
 
 
@@ -52,11 +53,11 @@ hr {
 
 
 /* centers the paragraphs under each heading */
-
+/*
 p {
   text-align: center;
 }
-
+*/
 
 
 /* created to center the profile picture */
