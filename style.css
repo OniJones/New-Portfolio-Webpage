@@ -1,6 +1,7 @@
 /* changes the header and footer's background, color and alignment */
 
 header , footer {
+  font-family: fantasy;
   background-color: #4B0082;
   color: #FFFFFF;
   text-align: center;
@@ -52,12 +53,12 @@ hr {
 }
 
 
-/* centers the paragraphs under each heading */
-/*
-p {
+/* centers the lists */
+
+ul li , ol li {
   text-align: center;
 }
-*/
+
 
 
 /* created to center the profile picture */
@@ -67,13 +68,6 @@ p {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
-}
-
-
-/*  created to center the lists  */
-
-.middle {
-  text-align: center;
 }
 
 
@@ -90,3 +84,4 @@ a:link    { color: #FFD700;  }
 a:visited { color: #9370DB;   }
 a:hover   { color: #FF00FF; }
 a:active  { color: #DDA0DD;  }
+
