@@ -1,7 +1,6 @@
 /* changes the header and footer's background, color and alignment */
 
 header , footer {
-  font-family: fantasy;
   background-color: #4B0082;
   color: #FFFFFF;
   text-align: center;
@@ -53,19 +52,10 @@ hr {
 }
 
 
-/* centers the lists */
-
-ul .center-list {
-  display: table;
-  margin-left: auto;
-  margin-right: auto;
-  list-style-position: inside;
-}
-
+/* centers the paragraphs under each heading */
 /*
-ol li {
+p {
   text-align: center;
-  list-style-position: inside;
 }
 */
 
@@ -77,6 +67,13 @@ ol li {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+}
+
+
+/*  created to center the lists  */
+
+.middle {
+  text-align: center;
 }
 
 
@@ -93,4 +90,3 @@ a:link    { color: #FFD700;  }
 a:visited { color: #9370DB;   }
 a:hover   { color: #FF00FF; }
 a:active  { color: #DDA0DD;  }
-
