@@ -49,3 +49,15 @@ p {
   margin-right: auto;
   width: 50%;
 }
+
+a {
+  font-family: "arial", sans-serif;
+  font-size: 20px;
+}
+
+/*  */
+
+a:link    { color: #4B0082;  }
+a:visited { color: #483D8B;   }
+a:hover   { color: #E6E6FA; }
+a:active  { color: #8B008B;  }
