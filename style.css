@@ -68,6 +68,14 @@ p {
   width: 50%;
 }
 
+
+/*  created to center the lists  */
+
+.middle {
+  text-align: center;
+}
+
+
 /* changes the links font style and size */
 
 a {
